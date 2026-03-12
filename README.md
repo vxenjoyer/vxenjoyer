@@ -5,6 +5,7 @@ As you can see I enjoy vx(malware development) and many other stuff related to i
 Stay tuned and maybe I'll drop some bangers,who knows :3
 
 Sites that I like:
+
 https://tirimid.net
 
 https://textfiles.com
