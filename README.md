@@ -17,6 +17,5 @@ https://paged.out
 
 https://phrack.org
 
-https://%E3%83%9E%E3%83%AA%E3%82%A6%E3%82%B9.com/
 
 https://tmpout.sh
