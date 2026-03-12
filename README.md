@@ -5,11 +5,18 @@ As you can see I enjoy vx(malware development) and many other stuff related to i
 Stay tuned and maybe I'll drop some bangers,who knows :3
 
 Sites that I like:
-tirimid.net
-textfiles.com
-pwn.college
+https://tirimid.net
+
+https://textfiles.com
+
+https://pwn.college
+
 https://www.roysac.com/tutorial/
-paged.out
-phrack.org
+
+https://paged.out
+
+https://phrack.org
+
 https://%E3%83%9E%E3%83%AA%E3%82%A6%E3%82%B9.com/
-tmpout.sh
+
+https://tmpout.sh
